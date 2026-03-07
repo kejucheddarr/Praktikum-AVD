@@ -1,3 +1,2 @@
 # Praktikum-AVD
-Nabila Salma Putri | 2509116065
-B25
+Nabila Salma Putri | 2509116065 | B25
